@@ -1,0 +1,7 @@
+
+
+1. By changing <link rel="icon" href="%PUBLIC_URL%/favicon.ico" /> in index.html
+ 
+2. Nav-pills only work on <NavLink> because it is an has an active css class.
+
+3. No differnce were found.
